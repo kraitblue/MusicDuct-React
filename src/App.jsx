@@ -1,12 +1,10 @@
-import Navbar from "./components/Navbar"
 import Register from "./pages/Register"
 import Home from "./pages/Home"
 import Login from "./pages/Login"
 import Cart from "./pages/Cart"
 import { BrowserRouter as Router, Routes, 
-  Route, Redirect,} from "react-router-dom";
-import Announcement from "./components/Announcement"
-import Footer from "./components/Footer"
+  Route, } from "react-router-dom";
+
 
 function App() {
   return (
