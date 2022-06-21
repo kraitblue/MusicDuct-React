@@ -2,7 +2,7 @@ export const sliderItems = [
     {
       id: 1,
       img: "https://i.ibb.co/bNp7jq5/pngegg.png",
-      title: "SUMMER SALE",
+      title: "STRINGS SALE",
       desc: "DON'T COMPROMISE ON GUITARS! GET FLAT 30% OFF FOR NEW STRINGS.",
       bg: "#F5F5F5",
     },
