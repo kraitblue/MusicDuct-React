@@ -59,7 +59,7 @@ export const sliderItems = [
     },
     {
       id:5,
-      img:"https://i.ibb.co/KhWqcS3/61-R6h-Sfmfu-L-SL1500.jpg",
+      img:"https://i.ibb.co/xmhqV7b/61-R6h-Sfmfu-L-SL1500-removebg-preview-removebg-preview.png",
     },
     {
       id:6,
