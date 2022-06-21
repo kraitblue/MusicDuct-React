@@ -1,4 +1,4 @@
-Step - 1 : npm install --legacy-peer-deps
+Step - 1 : npm install 
 
 Step - 2 : npm start
 
