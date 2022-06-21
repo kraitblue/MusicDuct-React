@@ -8,7 +8,7 @@ const Container = styled.div`
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://images.pexels.com/photos/6984661/pexels-photo-6984661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    url("https://cdn.dribbble.com/users/1549466/screenshots/13911656/music_background_gradient_purple_cm.jpg")
       center;
   background-size: cover;
   display: flex;
