@@ -43,3 +43,6 @@ body {
 .nav li :hover {
   color: rgb(218, 39, 39);
 }
+.nav li.active {
+  color: rgb(255, 11, 11);
+}
